@@ -91,12 +91,6 @@ Developed @ [CVDLAB][cvdlab]
 
 Your contributions (issues and pull request) are very appreciated!
 
-## Contributors
-
- - [JikkuJose](https://github.com/JikkuJose)
- - [Yeri-Kim](https://github.com/Yeri-Kim)
- - [lucacastoro](https://github.com/lucacastoro)
-
 ## License
 
 MIT
